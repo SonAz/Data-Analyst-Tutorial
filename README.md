@@ -1,9 +1,10 @@
 # Data-Analyst-Tutorial
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media2.giphy.com/media/lTRK8EYSTi9JsOCr6T/giphy.gif" />
-## I. Tổng quan về data Analyst 
 
-### 1. Phân tích dữ liệu là gì 
-### 2. Các bước phân tích dữ liệu
+## I. Tổng quan về data Analyst 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media2.giphy.com/media/lTRK8EYSTi9JsOCr6T/giphy.gif" />
+1. Phân tích dữ liệu là gì 
+
+2. Các bước phân tích dữ liệu
 
 **Bước 1. Xác định mục tiêu phân tích (Problem Definition)**
 - Hiểu rõ vấn đề kinh doanh hoặc câu hỏi cần trả lời.
@@ -53,12 +54,18 @@
 ## VI. Power BI / Tableau
 
 ## V. Machine Learning 
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L5lpqXpERqEThETyI4/giphy.gif" />
 1. Machine Learning cơ bản: https://github.com/tiepvupsu/ebookMLCB/blob/master/book_ML_color.pdf
 2. 
+3.
+4.
+5.
+6.
+
+
 
 ## VI.  Deep Learning 
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/dYkCXj9ejn0IK9SovW/giphy.gif" />
 1. Deep Learning cơ bản: 
 
 https://drive.google.com/file/d/1lNjzISABdoc7SRq8tg-xkCRRZRABPCKi/view
