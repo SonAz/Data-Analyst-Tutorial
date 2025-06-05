@@ -2,10 +2,11 @@
 
 ## I. Tổng quan về data Analyst 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media2.giphy.com/media/lTRK8EYSTi9JsOCr6T/giphy.gif" />
-1. Phân tích dữ liệu là gì 
 
-2. Các bước phân tích dữ liệu
+1. Phân tích dữ liệu là gì?
+https://www.geeksforgeeks.org/data-analysis-tutorial/
 
+2. Các bước phân tích dữ liệu:
 **Bước 1. Xác định mục tiêu phân tích (Problem Definition)**
 - Hiểu rõ vấn đề kinh doanh hoặc câu hỏi cần trả lời.
 - Xác định rõ mục tiêu, phạm vi, và kỳ vọng.
@@ -44,6 +45,9 @@
 - Dựa trên kết quả để đưa ra hành động cụ thể.
 - Có thể tích hợp mô hình vào hệ thống (nếu là phân tích nâng cao).
 - Theo dõi và đánh giá hiệu quả sau khi triển khai.
+  
+3. Các dạng biểu đồ:
+https://developers.google.com/chart/interactive/docs/gallery/columnchart
 
 ## II. SQL
 
@@ -55,23 +59,27 @@
 
 ## V. Machine Learning 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L5lpqXpERqEThETyI4/giphy.gif" />
-1. Machine Learning cơ bản: https://github.com/tiepvupsu/ebookMLCB/blob/master/book_ML_color.pdf
+
+1. Tài liệu Machine Learning cơ bản: https://github.com/tiepvupsu/ebookMLCB/blob/master/book_ML_color.pdf
+
 2. 
+
 3.
+
 4.
+
 5.
+
 6.
 
 
 
 ## VI.  Deep Learning 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/dYkCXj9ejn0IK9SovW/giphy.gif" />
-1. Deep Learning cơ bản: 
 
-https://drive.google.com/file/d/1lNjzISABdoc7SRq8tg-xkCRRZRABPCKi/view
+1. Tài liệu Deep Learning cơ bản: https://drive.google.com/file/d/1lNjzISABdoc7SRq8tg-xkCRRZRABPCKi/view
 
-1. 
+2. 
 
 ……………………………………………………………………….
 
-https://html.cafe/x82abc51e
