@@ -1,5 +1,5 @@
 # Data-Analyst-Tutorial
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media2.giphy.com/media/lTRK8EYSTi9JsOCr6T/giphy.gif" />
 ## I. Tổng quan về data Analyst 
 
 ### 1. Phân tích dữ liệu là gì 
