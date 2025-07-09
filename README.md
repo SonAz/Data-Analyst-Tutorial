@@ -50,12 +50,17 @@ https://www.geeksforgeeks.org/data-analysis-tutorial/
 https://developers.google.com/chart/interactive/docs/gallery/columnchart
 
 ## II. SQL
+1. https://www.youtube.com/@AlexTheAnalyst
 
-### SQL Advanced
 
 ## III. Python
-
+1. https://www.youtube.com/playlist?list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg
+2. https://www.youtube.com/@coreyms
+3. https://www.youtube.com/@programmingwithmosh
+   
 ## VI. Power BI / Tableau
+1. https://www.youtube.com/@LukeBarousse
+2. https://www.youtube.com/@TableauTim
 
 ## V. Machine Learning 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L5lpqXpERqEThETyI4/giphy.gif" />
