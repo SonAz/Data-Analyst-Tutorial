@@ -7,44 +7,19 @@
 https://www.geeksforgeeks.org/data-analysis-tutorial/
 
 2. Các bước phân tích dữ liệu:
-**Bước 1. Xác định mục tiêu phân tích (Problem Definition)**
-- Hiểu rõ vấn đề kinh doanh hoặc câu hỏi cần trả lời.
-- Xác định rõ mục tiêu, phạm vi, và kỳ vọng.
-- Ví dụ: “Doanh thu có bị ảnh hưởng bởi thời tiết không?”
 
-**Bước 2. Thu thập dữ liệu (Data Collection)** 
-- Thu thập dữ liệu từ nhiều nguồn: nội bộ (CRM, ERP), bên ngoài (API, web scraping, khảo sát).
-- Phân loại dữ liệu: định lượng (số), định tính (văn bản, ý kiến).
-
-**Bước 3. Làm sạch và chuẩn hóa dữ liệu (Data Cleaning & Preparation)**
-- Xử lý dữ liệu thiếu, dữ liệu sai lệch, trùng lặp.
-- Chuyển đổi định dạng dữ liệu (ví dụ: chuyển ngày tháng, loại dữ liệu số).
-- Tạo biến mới nếu cần (feature engineering).
-
-**Bước 4. Khám phá và trực quan hóa dữ liệu (Exploratory Data Analysis – EDA)**
-- Sử dụng thống kê mô tả (trung bình, độ lệch chuẩn, phân phối…).
-- Dùng biểu đồ (histogram, boxplot, scatter plot) để phát hiện xu hướng, mẫu hình hoặc ngoại lệ.
-
-**Bước 5. Phân tích chuyên sâu hoặc mô hình hóa (Modeling/Analysis)**
-- Tùy mục tiêu:
-    - Dự đoán: dùng mô hình máy học (Linear Regression, Decision Tree, v.v.).
-    - Phân loại nhóm: Clustering (K-Means).
-- Phân tích mối quan hệ: Correlation, Regression.
-- Đánh giá mô hình: accuracy, precision, recall, RMSE,…
-
-**Bước 6. Diễn giải kết quả (Interpretation)**
-- Giải thích ý nghĩa của các phát hiện hoặc mô hình.
-- Đặt kết quả vào ngữ cảnh kinh doanh.
-- Trả lời câu hỏi ban đầu bằng dữ liệu.
-
-**Bước 7. Trình bày & báo cáo kết quả (Reporting & Communication)**
-- Tạo báo cáo, dashboard hoặc slide trình bày.
-- Sử dụng ngôn ngữ đơn giản, trực quan, phù hợp với đối tượng người nghe.
-
-**Bước 8. Ra quyết định & triển khai (Decision-making & Deployment)**
-- Dựa trên kết quả để đưa ra hành động cụ thể.
-- Có thể tích hợp mô hình vào hệ thống (nếu là phân tích nâng cao).
-- Theo dõi và đánh giá hiệu quả sau khi triển khai.
+Bước 1. Hiểu rõ bài toán / mục tiêu kinh doanh:
+  Làm việc với các bên liên quan để xác định mục tiêu phân tích là gì — ví dụ như tăng doanh thu, tối ưu chi phí, hay hiểu hành vi khách hàng.
+Bước 2. Thu thập dữ liệu:
+ Tôi xác định các nguồn dữ liệu cần thiết (như database, file Excel, API...) và sử dụng SQL, Python hoặc các công cụ ETL để thu thập và tổng hợp dữ liệu.
+Bước 3. Làm sạch và tiền xử lý dữ liệu:
+ Xử lý dữ liệu bị thiếu, loại bỏ dữ liệu trùng lặp, chuẩn hóa định dạng, và chuyển đổi các biến nếu cần. Giai đoạn này rất quan trọng để đảm bảo dữ liệu chất lượng.
+Bước 4. Phân tích dữ liệu khám phá (EDA):
+ Sử dụng các thống kê mô tả, biểu đồ (với Excel, Power BI, Python...) để tìm hiểu xu hướng, mối quan hệ, hoặc các điểm bất thường trong dữ liệu.
+Bước 5. Rút ra insight và xây dựng báo cáo:
+ Dựa vào kết quả phân tích, tổng hợp các kết luận quan trọng, so sánh theo từng nhóm hoặc thời gian, và trình bày bằng dashboard hoặc báo cáo (Power BI, Tableau, Excel...).
+Bước 6. Đề xuất hành động / hỗ trợ ra quyết định:
+ Cuối cùng, đề xuất các giải pháp hoặc hỗ trợ nhóm ra quyết định dựa trên dữ liệu. Nếu cần, tôi theo dõi và đánh giá hiệu quả của các đề xuất đó theo thời gian."
   
 3. Các dạng biểu đồ:
 https://developers.google.com/chart/interactive/docs/gallery/columnchart
